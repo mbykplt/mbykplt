@@ -28,5 +28,5 @@
 
 
 
-[twitter]: https://twitter.com/mbykplt1
-[instagram]: https://instagram.com/mbykplt8
+[twitter]: https://twitter.com/mbuyukpolat1
+[instagram]: https://instagram.com/mbykplt
