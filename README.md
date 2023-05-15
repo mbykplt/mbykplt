@@ -4,7 +4,7 @@
 - 👯 Yazılım topluluklarıyla birlikte yazılım geliştirmeyi ve kod yazmayı seviyorum.
 - 🥅 2022 Hedeflerim: Bilgisayar programcılığı bölümünden mezun olup, flutter dili üzerine yoğunlaşıp güncel olarak PHP üzerinde çalıştığım projelerimi satışa çıkarmak.
 - ⚡ Hobilerim: Hayal etmek, kitap okumak, müzik dinlemek, boş vakitlerimde kodlarla oynamak.
-
+<a href="https://digiturksanliurfa.com/" alt="Digiturk Şanlıurfa" title="Digiturk Şanlıurfa">Digiturk Şanlıurfa</a>
 ### Benimle irtibata geç:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
